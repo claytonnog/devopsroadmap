@@ -1,6 +1,6 @@
 # DevOps Roadmap
 
-O objetivo é criar um Roadmap mais simples para quem deseja entrar na área de DevOps.
+O objetivo é criar um Roadmap bem mais simples para quem deseja entrar na área de DevOps.
 
 # Table of contents
 
@@ -67,6 +67,10 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 - Playlist Python: https://www.youtube.com/watch?v=wI-tdeDPGlU&list=PLbIBj8vQhvm2OT4MpkrsKDDVuZ_RlNzli
 
 - Playlist Python Orientado a Objetos - Python POO: https://www.youtube.com/watch?v=RLVbB91A5-8&list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7
+
+- [Canal da Live de Python](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
+
+- O Eduardo [Dunossauro](https://twitter.com/dunossauro) é um dos caras mais incríveis que conheço, e na live dele, assim como no [grupo do telegram](https://t.me/livepython), você vai ter a oportunidade de aprender muito sobre python. Link para o Github da [Live de Python](https://github.com/dunossauro/live-de-python)
 
 ### Go
 
