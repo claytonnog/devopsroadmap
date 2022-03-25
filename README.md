@@ -174,16 +174,16 @@ Sugiro que assine os canais abaixo e acompanhe, pois estão sempre postando cont
 
 **IaC / DevOps**
 
-Canal PunkdoDevOps
+Canal [PunkdoDevOps](https://twitter.com/punkdodevops)
 - [Youtube](https://www.youtube.com/c/PunkdoDevOps) 
 - [Twitch](https://www.twitch.tv/punkdodevops)
-- 
+  
 Linux Tips
 - [Youtube](https://www.youtube.com/c/LinuxTips)
 - [Twitch](https://www.twitch.tv/linuxtips)
 
-Canal do Gomex
+Canal do [Gomex](https://twitter.com/gomex)
 - [Youtube](https://www.youtube.com/c/RafaelGomex/videos) 
 
-Canal do [Paulo Kretcheu](https://twitter.com/kretcheu) sobre GNU/Linux
-- Link do canal do [Youtube](https://www.youtube.com/user/kretcheu2001/videos)
+Canal do [Paulo Kretcheu](https://twitter.com/kretcheu)
+- [Youtube](https://www.youtube.com/user/kretcheu2001/videos)
