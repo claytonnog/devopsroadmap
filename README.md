@@ -52,34 +52,33 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 **Pequeno Manual do Programador GNU/Bash**
 
-- *Autor*: [Blau Araujo](https://twitter.com/blau_araujo){target="_blank"} 
-- *Link*: https://blauaraujo.com/2022/02/17/versao-impressa-do-pequeno-manual-do-programador-gnu-bash/
-- *Descrição*: Versões Gratuitas em PDF, Mobi e epub.
+- [Blau Araujo](https://twitter.com/blau_araujo)
+- Link: https://blauaraujo.com/2022/02/17/versao-impressa-do-pequeno-manual-do-programador-gnu-bash/ (Versões Gratuitas em PDF, Mobi e epub.)
 
 
 ### Python
 
 **Playlists de Python**
 
-- *Autor*: [Otávio Miranda](https://twitter.com/OtavioMirandaBR)
+- [Otávio Miranda](https://twitter.com/OtavioMirandaBR)
 
-- *Playlist Curso de Python*: https://www.youtube.com/watch?v=BIhxq1ZszY4&list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr
+- Playlist Curso de Python: https://www.youtube.com/watch?v=BIhxq1ZszY4&list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr
 
-- *Playlist Python*: https://www.youtube.com/watch?v=wI-tdeDPGlU&list=PLbIBj8vQhvm2OT4MpkrsKDDVuZ_RlNzli
+- Playlist Python: https://www.youtube.com/watch?v=wI-tdeDPGlU&list=PLbIBj8vQhvm2OT4MpkrsKDDVuZ_RlNzli
 
-- *Playlist Python Orientado a Objetos - Python POO*: https://www.youtube.com/watch?v=RLVbB91A5-8&list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7
+- Playlist Python Orientado a Objetos - Python POO: https://www.youtube.com/watch?v=RLVbB91A5-8&list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7
 
 ### Go
 
 **Playlists de Go**
 
-- *Autora*: [Vee Korbes](https://twitter.com/veekorbes)
+- [Vee Korbes](https://twitter.com/veekorbes)
 
-- *Link da Playlist*: https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
+- Link da Playlist: https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 ### Git / CI/CD 
 
-- *Playlist Git e Github*: https://www.youtube.com/playlist?list=PLbIBj8vQhvm1u3xqha_0QCIJY0EuTfhpH
+- Playlist Git e Github: https://www.youtube.com/playlist?list=PLbIBj8vQhvm1u3xqha_0QCIJY0EuTfhpH
 
 
 
@@ -87,15 +86,15 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 **Mentoria IaC**
 
-- *Autor*: [Gomex](https://twitter.com/gomex)
+- Autor: [Gomex](https://twitter.com/gomex)
 
-- *Link da mentoria*: https://gomex.me/mentoriaiac/
+- Link da mentoria: https://gomex.me/mentoriaiac/
 
 ### LinuxTips
 
 De tempos em tempos a LinuxTips faz ações, auxiliando minorias que desejam se especializar em DevOps.
 
-Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips](https://twitter.com/LINUXtipsBR), caso você faça parte de algum grupo minoritário.
+Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_ target="_blank") e da [LinuxTips](https://twitter.com/LINUXtipsBR), caso você faça parte de algum grupo minoritário.
 
 
 ## Gratuitos (Inglês)
