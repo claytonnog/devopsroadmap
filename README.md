@@ -32,6 +32,8 @@ Para contribuir envie seu PR ou abra uma [Issue](https://github.com/claytonnog/d
     - [Devops](#devops)
     - [Básico de Redes](#básico-de-redes)
   - [Canais no Youtube / Twitch](#canais-no-youtube--twitch)
+    - [IaC/DevOps](#iacdevops)
+    - [GNU/Linux](#gnulinux)
 
 
 # Roadmap
@@ -180,7 +182,7 @@ Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips]
 
 Sugiro que assine os canais abaixo e acompanhe, pois estão sempre postando conteúdos para que você aprenda coisas novas.
 
-**IaC / DevOps**
+### IaC/DevOps
 
 Canal [PunkdoDevOps](https://twitter.com/punkdodevops)
 - [Youtube](https://www.youtube.com/c/PunkdoDevOps) 
@@ -192,6 +194,8 @@ Linux Tips
 
 Canal do [Gomex](https://twitter.com/gomex)
 - [Youtube](https://www.youtube.com/c/RafaelGomex/videos) 
+
+### GNU/Linux
 
 Canal do [Paulo Kretcheu](https://twitter.com/kretcheu)
 - [Youtube](https://www.youtube.com/user/kretcheu2001/videos)
