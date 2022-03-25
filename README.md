@@ -53,8 +53,10 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 **Pequeno Manual do Programador GNU/Bash**
 
 - [Blau Araujo](https://twitter.com/blau_araujo)
+
 - Link: https://blauaraujo.com/2022/02/17/versao-impressa-do-pequeno-manual-do-programador-gnu-bash/ (Versões Gratuitas em PDF, Mobi e epub.)
 
+- Canal do Blau no [Youtube](https://www.youtube.com/c/debxplinux/videos)
 
 ### Python
 
@@ -162,14 +164,13 @@ Sugiro que assine os canais abaixo e acompanhe, pois estão sempre postando cont
 Canal PunkdoDevOps
 - [Youtube](https://www.youtube.com/c/PunkdoDevOps) 
 - [Twitch](https://www.twitch.tv/punkdodevops)
-
+- 
 Linux Tips
-
 - [Youtube](https://www.youtube.com/c/LinuxTips)
 - [Twitch](https://www.twitch.tv/linuxtips)
-
 
 Canal do Gomex
 - [Youtube](https://www.youtube.com/c/RafaelGomex/videos) 
 
-
+Canal do [Paulo Kretcheu](https://twitter.com/kretcheu) sobre GNU/Linux
+- Link do canal do [Youtube](https://www.youtube.com/user/kretcheu2001/videos)
