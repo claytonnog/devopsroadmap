@@ -52,7 +52,7 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 **Pequeno Manual do Programador GNU/Bash**
 
-- *Autor*: [Blau Araujo](https://twitter.com/blau_araujo)
+- *Autor*: [Blau Araujo](https://twitter.com/blau_araujo){target="_blank"} 
 - *Link*: https://blauaraujo.com/2022/02/17/versao-impressa-do-pequeno-manual-do-programador-gnu-bash/
 - *Descrição*: Versões Gratuitas em PDF, Mobi e epub.
 
