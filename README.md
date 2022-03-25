@@ -24,6 +24,7 @@ O objetivo é criar um Roadmap menor e mais simples para quem deseja entrar na �
     - [AWS](#aws-1)
     - [Docker / K8S / CI/CD](#docker--k8s--cicd)
   - [Pagos (Português)](#pagos-português)
+    - [Básico de Redes](#básico-de-redes)
   - [Canais no Youtube / Twitch](#canais-no-youtube--twitch)
 
 
@@ -160,6 +161,12 @@ Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips]
 - [Formação DevOps da Alura](https://www.alura.com.br/formacao-devops)
 
 - [Trilhas DevOps da School of Net](https://www.schoolofnet.com/cursos/infraestrutura/)
+
+### Básico de Redes
+
+- Curso de redes do [Paulo Kretcheu](https://twitter.com/kretcheu).
+  
+- Começa dia 04/Abril 2022, mais informações no [link](https://salsa.debian.org/kretcheu/cursoredes1).
 
 ## Canais no Youtube / Twitch
 
