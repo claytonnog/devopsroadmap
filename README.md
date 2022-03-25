@@ -29,6 +29,7 @@ Para contribuir envie seu PR ou abra uma [Issue](https://github.com/claytonnog/d
     - [AWS](#aws-1)
     - [Docker / K8S / CI/CD](#docker--k8s--cicd)
   - [Pagos (Português)](#pagos-português)
+    - [Devops](#devops)
     - [Básico de Redes](#básico-de-redes)
   - [Canais no Youtube / Twitch](#canais-no-youtube--twitch)
 
@@ -160,6 +161,8 @@ Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips]
 
 
 ## Pagos (Português)
+
+### Devops
 
 - [Trilha DevOps da LinuxTips](https://www.linuxtips.io/pages/trilha-de-treinamentos)
 
