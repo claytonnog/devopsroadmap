@@ -84,6 +84,10 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 - Link da Playlist: https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
+- [Lauren](https://twitter.com/larienmf/)
+
+- Aprenda Go com Testes: https://larien.gitbook.io/aprenda-go-com-testes
+
 ### Git / CI/CD 
 
 
