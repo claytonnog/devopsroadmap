@@ -58,6 +58,8 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 - Canal do Blau no [Youtube](https://www.youtube.com/c/debxplinux/videos)
 
+- Cursos Livres e Gratuitos que o Blau oferece: https://blauaraujo.com/2022/01/21/cursos-livres-e-gratuitos/
+
 ### Python
 
 **Playlists de Python**
