@@ -78,8 +78,8 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 ### Git / CI/CD 
 
-- Playlist Git e Github: https://www.youtube.com/playlist?list=PLbIBj8vQhvm1u3xqha_0QCIJY0EuTfhpH
 
+- Playlist Git e Github para Iniciantes: https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A
 
 
 ### IaC (Infrastructure as Code) ou Infraestrutura como código
@@ -94,7 +94,7 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 De tempos em tempos a LinuxTips faz ações, auxiliando minorias que desejam se especializar em DevOps.
 
-Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_ target="_blank") e da [LinuxTips](https://twitter.com/LINUXtipsBR), caso você faça parte de algum grupo minoritário.
+Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips](https://twitter.com/LINUXtipsBR), caso você faça parte de algum grupo minoritário.
 
 
 ## Gratuitos (Inglês)
