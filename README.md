@@ -2,9 +2,14 @@
 
 O objetivo é criar um Roadmap menor e mais simples para quem deseja entrar na área de DevOps.
 
+# Contribuindo
+
+Para contribuir envie seu PR ou abra uma [Issue](https://github.com/claytonnog/devopsroadmap/issues/new).
+
 # Table of contents
 
 - [DevOps Roadmap](#devops-roadmap)
+- [Contribuindo](#contribuindo)
 - [Table of contents](#table-of-contents)
 - [Roadmap](#roadmap)
 - [Por onde começar?](#por-onde-começar)
