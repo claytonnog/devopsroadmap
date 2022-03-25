@@ -1,6 +1,6 @@
 # DevOps Roadmap
 
-O objetivo é criar um Roadmap bem mais simples para quem deseja entrar na área de DevOps.
+O objetivo é criar um Roadmap mais simples para quem deseja entrar na área de DevOps.
 
 # Table of contents
 
