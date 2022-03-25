@@ -106,7 +106,7 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 De tempos em tempos a LinuxTips faz ações, auxiliando minorias que desejam se especializar em DevOps.
 
-Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips](https://twitter.com/LINUXtipsBR), caso você faça parte de algum grupo minoritário.
+Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips](https://twitter.com/LINUXtipsBR).
 
 
 ## Gratuitos (Inglês)
