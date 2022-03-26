@@ -138,6 +138,17 @@ Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips]
 
 - [Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
+**Microsoft Learn**
+
+- Relacionado com AZ-900:
+  - [Microsoft Azure Fundamentals: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+
+  - [Microsoft Azure Fundamentals: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+- [Get started with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/)
+
+- [Automate your workflow with GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/): Github Actions + Deploy na Azure
+
 ### Docker / Kubernetes
 
 **FreeCodeCamp**
