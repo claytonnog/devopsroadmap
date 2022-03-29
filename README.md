@@ -19,6 +19,7 @@ Para contribuir envie seu PR ou abra uma [Issue](https://github.com/claytonnog/d
     - [Python](#python)
     - [Go](#go)
     - [Git / CI/CD](#git--cicd)
+    - [Docker / Kubernetes](#docker--k8s)
     - [IaC (Infrastructure as Code) ou Infraestrutura como código](#iac-infrastructure-as-code-ou-infraestrutura-como-código)
     - [LinuxTips](#linuxtips)
   - [Gratuitos (Inglês)](#gratuitos-inglês)
@@ -104,6 +105,10 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 - [Introdução ao Azure DevOps](https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices/)
 
 - [Automatize o fluxo de trabalho com o GitHub Actions](https://docs.microsoft.com/pt-br/learn/paths/automate-workflow-github-actions/)
+
+### Docker / K8S
+
+- [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 ### IaC (Infrastructure as Code) ou Infraestrutura como código
 
