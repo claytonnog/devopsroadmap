@@ -99,9 +99,11 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 ### Git / CI/CD 
 
-
 - Playlist Git e Github para Iniciantes: https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A
 
+- [Introdução ao Azure DevOps](https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices/)
+
+- [Automatize o fluxo de trabalho com o GitHub Actions](https://docs.microsoft.com/pt-br/learn/paths/automate-workflow-github-actions/)
 
 ### IaC (Infrastructure as Code) ou Infraestrutura como código
 
