@@ -19,6 +19,7 @@ Para contribuir envie seu PR ou abra uma [Issue](https://github.com/claytonnog/d
     - [Python](#python)
     - [Go](#go)
     - [Git / CI/CD](#git--cicd)
+    - [Docker / Kubernetes](#docker--k8s)
     - [IaC (Infrastructure as Code) ou Infraestrutura como código](#iac-infrastructure-as-code-ou-infraestrutura-como-código)
     - [LinuxTips](#linuxtips)
   - [Gratuitos (Inglês)](#gratuitos-inglês)
@@ -99,9 +100,15 @@ Sejam códigos de IaC ou pequenas aplicações de teste, é importante que você
 
 ### Git / CI/CD 
 
-
 - Playlist Git e Github para Iniciantes: https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A
 
+- [Introdução ao Azure DevOps](https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices/)
+
+- [Automatize o fluxo de trabalho com o GitHub Actions](https://docs.microsoft.com/pt-br/learn/paths/automate-workflow-github-actions/)
+
+### Docker / K8S
+
+- [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 ### IaC (Infrastructure as Code) ou Infraestrutura como código
 
@@ -137,6 +144,7 @@ Acompanhe os twitter do [Jeferson](https://twitter.com/badtux_) e da [LinuxTips]
 - [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 - [Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
+
 
 ### Docker / Kubernetes
 
